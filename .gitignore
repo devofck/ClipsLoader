@@ -1,3 +1,5 @@
 cookie/cookies.txt
 venv
 .idea
+test.py
+cookie/data.pkl
