@@ -1,6 +1,5 @@
-import os
-import json
 import pickle
+
 
 class CookieManager:
     directory_path = None
